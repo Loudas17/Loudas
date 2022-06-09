@@ -1,0 +1,22 @@
+.choice {
+    display: flex;
+    height: 450px;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.medecin:hover, .infirmier:hover {
+    transform: translateY(-40px);
+}
+
+.choice div {
+    height: 300px;
+    width: 300px;
+    margin-right: 100px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

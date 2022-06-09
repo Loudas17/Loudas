@@ -1,0 +1,25 @@
+#myTable ,tr,th,td {
+    border: 1px solid #002e5f;
+    text-align: center;
+    padding: 15px;  
+}
+
+#myTable{
+    width: 100%;
+  border-collapse: collapse;
+}
+
+#myTable th{
+    height: 40px;
+    background-color: #002e5f;
+    color: white;
+    border:1px solid white;
+}
+
+#myTable td{
+    padding: 10px;  
+}
+
+#myTable tr:hover {
+    background-color: orange;
+}

@@ -1,0 +1,55 @@
+#loginMedecin {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    width: 400px;
+    border: solid black;
+    border-radius: 3em;
+    color: black;
+}
+
+#loginMedecin span{
+    display:none;
+}
+
+#loginMedecin p{
+    color:red; 
+    font-size: 15px; 
+}
+
+#loginMedecin div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#loginInfirmier {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    width: 400px;
+    border: solid black;
+    border-radius: 3em;
+    color: black;
+}
+
+
+#loginInfirmier span{
+    display:none;
+}
+#loginInfirmier p{
+    color:red; 
+    font-size: 15px; 
+}
+
+#loginInfirmier div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

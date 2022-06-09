@@ -1,0 +1,29 @@
+#ConnecterM {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 600px;
+}
+
+#ConnecterM div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ConnecterI {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 600px;
+}
+
+#ConnecterI div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

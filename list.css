@@ -1,0 +1,23 @@
+#list {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+}
+
+#list div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#up{
+    border-radius: 50%;
+    background-color: rgb(0, 85, 255);
+    font-size: xx-large;
+}
+
+#up:hover{
+    background-color: orange;
+}

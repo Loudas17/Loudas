@@ -1,0 +1,14 @@
+#search{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+    margin: 0 auto;
+}
+
+#search div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
